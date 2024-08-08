@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Gabriel Bastos
 - 👀 I’m interested in Dev
 - 🌱 I’m currently learning Python
-- 📫 How to reach me By email (gabrielbastos478@gmail.com) or on LINKEDIN (https://www.linkedin.com/in/gabriel-bastos-520a58278/)
+- 📫 How to reach me By email (zgbzinho@gmail.com) or on LINKEDIN (https://www.linkedin.com/in/gabriel-bastos-520a58278/)
 
 
 
